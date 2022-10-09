@@ -1,0 +1,8 @@
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

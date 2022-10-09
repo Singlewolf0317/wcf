@@ -1,0 +1,7 @@
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\CalculatorService\bin\CalculatorService.dll.config
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\CalculatorService\bin\CalculatorService.dll
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\CalculatorService\bin\CalculatorService.pdb
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+C:\Users\fifi0\Desktop\Prog3170\week4\wcf\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb
